@@ -4,12 +4,9 @@
 
 export const environment = {
   production: false,
-  // BASE_ENDPOINT: 'http://localhost:8080/inspector',
-  // AUTH_ENDPOINT: 'http://localhost:8080/fps-auth-inspector',
-  // DOMAIN_TOKEN: 'localhost:8080',
-  BASE_ENDPOINT: 'http://104.209.133.102:8080/inspector',
-  AUTH_ENDPOINT: 'http://104.209.133.102:8080/fps-auth-inspector',
-  DOMAIN_TOKEN: '104.209.133.102:8080',
+  BASE_ENDPOINT: 'http://localhost:8080/inspector',
+  AUTH_ENDPOINT: 'http://localhost:8080/fps-auth-inspector',
+  DOMAIN_TOKEN: 'localhost:8080',
 };
 
 /*
